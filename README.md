@@ -9,17 +9,16 @@ Se intentaron diferentes modelos de machine learning y diferentes aproximaciones
 
 Se ha creado la soguiente estructura de carpetas para alojar los archivos que componen el trabajo:
 
-/src: carpeta raiz que contiene todo y dentro de la cual estan todas las subcarpetas del proyecto.
-    /src/data: contiene todos mis achivos de datos. las fuentes de las que me he servido para poder hacer el trabajo. archivos.csv de train y test.
+**/src**: carpeta raiz que contiene todo y dentro de la cual estan todas las subcarpetas del proyecto.
+**/src/data**: contiene todos mis achivos de datos. las fuentes de las que me he servido para poder hacer el trabajo. archivos.csv de train y test.
 
-            /src/data/output: Aqui estan alojados los CSV resultado de mis predicciones.
-            /src/data/Processed: Aqui estan alojados los CSV iniciales ya tratados. Sin valores nulos, eliminadas las columnas inncesarias...etc
-            /src/data/Raw: Aqui estan alojados los CSV iniciales descargados de la web de Kaggel.
+            **src/data/output**: Aqui estan alojados los CSV resultado de mis predicciones.
+            **src/data/Processed**: Aqui estan alojados los CSV iniciales ya tratados. Sin valores nulos, eliminadas las columnas inncesarias...etc
+            **src/data/Raw**: Aqui estan alojados los CSV iniciales descargados de la web de Kaggel.
 
-    /src/notebook: donde están alojados mis notebooks, osea, los ficheros de visual code con todo el código en lenguale Phython.
-            /src/notebook/images: donde he guardado las fotos con los graficos generados en los notebooks.
-
-    /src/utils:Archivo .Py con las funciones utulizadas en los notebooks.
+    **src/notebook**: donde están alojados mis notebooks, osea, los ficheros de visual code con todo el código en lenguale Phython.
+    **src/notebook/images**: donde he guardado las fotos con los graficos generados en los notebooks.
+    **src/utils**: Archivo .Py con las funciones utulizadas en los notebooks.
 
 
 **Datos**
