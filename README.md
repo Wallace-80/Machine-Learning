@@ -35,7 +35,7 @@ El dataset contiene datos dristibuidos de la siguiente manera:
 - **Name** : el nombre y apellido del pasajero.
 - **Transported** : si el pasajero fue transportado a otra dimensión. Este es el objetivo, la columna que está tratando de predecir.
 
-Como se ha tratado cada columna,elemenos nulos...etc esta detallado dentrod e cada notebookk. Hay 2 notebboks relativos a datos, el de train y el de test. El tratamoento es igual, aunque la diferencia entre el de train y el de test, es que en el dataframe de test, no tenemos la variable "Transported" (nuestro Target).
+Como se ha tratado cada columna,elemenos nulos...etc esta detallado dentro de cada notebookk. Hay 2 notebooks relativos a datos, el de train y el de test. El tratamoento es igual, aunque la diferencia entre el de train y el de test, es que en el dataframe de test, no tenemos la variable "Transported" (nuestro Target).
 
 -----------
 #### Fuentes de los Datos
